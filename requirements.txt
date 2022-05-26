@@ -12,7 +12,7 @@ Pillow==2.3.0
 SQLAlchemy==0.9.7
 Scrapy==0.24.4
 SecretStorage==2.0.0
-Twisted==14.0.2
+Twisted==22.4.0
 Werkzeug==0.9.6
 alembic==0.6.6
 argparse==1.2.1
